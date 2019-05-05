@@ -1,0 +1,32 @@
+{    
+    "status":"0",
+    "NewsList":
+        [
+             {   
+                "id":"0",
+                "title":"新闻详情一", 
+                "add_time":"2019-04-23 12:00:00",
+                "content":"新闻详情一",      
+                "onclick": "1",
+                "img": "/images/shuijiao.jpg"
+            } ,
+                 
+            {   
+                "id":"1",
+                "title":"新闻详情二", 
+                "add_time":"2019-04-23 12:00:00",
+                "content":"新闻详情二",      
+                "onclick": "1",
+                "img": "/images/cbd.jpg"
+            },
+            {
+                "id":"2",
+                "title":"新闻详情三", 
+                "add_time":"2019-04-23 12:00:00",
+                "content":"新闻详情三",      
+                "onclick": "1" ,
+                "img": "/images/muwu.jpg"
+
+            }
+    ]
+}
